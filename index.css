@@ -1,0 +1,10 @@
+/* author: Zetian Chen
+ * description: This is a css file adjusting the style of file index.html
+ */
+
+
+/* Remove webpage margin and hide overflow */
+body {
+    margin: 0;
+    overflow: hidden;
+}
